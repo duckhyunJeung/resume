@@ -15,4 +15,13 @@
 ### 미디움 
  - 2018.02 ~ 현재 재직중
 
-
+# 보유기술
+ - react(redux, reactNative)
+ - js, jquery, jsp, html, css
+ - nexacro
+ - spring (mybatis, jpa, restful api, spring boot ...)
+ - mysql, oracle, mariadb, db2, no sql
+ - google sdk, facebook sdk, kakao sdk (login api)
+ - s3, EC2(ubuntu), ELB, 
+ - git 
+ 
